@@ -1,36 +1,4 @@
-{	
-	"profiles":[
-		{
-			"id": 1,
-			"name": "tomski",
-			"age": 2137
-
-		},
-		{
-			"id": 2,
-			"name": "tomski2",
-			"age": 1488
-
-		},	
-		{
-			"id": 3,
-			"name": "tomski3",
-			"age": 997
-
-		},
-		{
-			"id": 4,
-			"name": "tomski",
-			"age": 2
-
-		},
-		{
-			"id": 5,
-			"name": "tomski",
-			"age": 3
-
-		}
-
-
-	]
+{
+	
+students:[{"id":1,"indexNumber":1,"firstName":"xxdd","lastName":"lastxd","dateOfBirth":"2019-01-24T16:02:04.895"},{"id":2,"indexNumber":2,"firstName":"xxdd","lastName":"lastxd","dateOfBirth":"2019-01-24T16:02:04.895"}]
 }
