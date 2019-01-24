@@ -1,22 +1,24 @@
-[
-	{
-		"id": 1,
-		"name": "tomski",
-		"age": 2137
-		
-	},
-	{
-		"id": 2,
-		"name": "tomski2",
-		"age": 1488
-		
-	},	
-	{
-		"id": 3,
-		"name": "tomski3",
-		"age": 997
-		
-	}
+{	
+	"profiles":[
+		{
+			"id": 1,
+			"name": "tomski",
+			"age": 2137
+
+		},
+		{
+			"id": 2,
+			"name": "tomski2",
+			"age": 1488
+
+		},	
+		{
+			"id": 3,
+			"name": "tomski3",
+			"age": 997
+
+		}
 
 
-]
+	]
+}
